@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="dl_definition">
+    <dl_definition action="DELETE">
+        <active>true</active>
+        <matcher_table>x_535055_safety_inspector_lookup_rules</matcher_table>
+        <name>Inspector lookup</name>
+        <run_on_form_change>true</run_on_form_change>
+        <run_on_insert>true</run_on_insert>
+        <run_on_update>true</run_on_update>
+        <source_table>x_535055_safety_issue</source_table>
+        <sys_class_name>dl_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-05 13:29:13</sys_created_on>
+        <sys_id>77d40223dbef10100a91146139961936</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Inspector lookup</sys_name>
+        <sys_package display_value="Safety" source="x_535055_safety">e0f5b417dba310100a911461399619c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">e0f5b417dba310100a911461399619c1</sys_scope>
+        <sys_update_name>dl_definition_77d40223dbef10100a91146139961936</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-05 13:29:13</sys_updated_on>
+    </dl_definition>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Safety">e0f5b417dba310100a911461399619c1</application>
+        <file_path/>
+        <instance_id>2524ff52db72d300536ad5b0cf961964</instance_id>
+        <instance_name>dev62215</instance_name>
+        <name>dl_definition_77d40223dbef10100a91146139961936</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="dl_definition"><dl_definition action="INSERT_OR_UPDATE"><active>true</active><matcher_table>x_535055_safety_inspector_lookup_rules</matcher_table><name>Inspector lookup</name><run_on_form_change>true</run_on_form_change><run_on_insert>true</run_on_insert><run_on_update>true</run_on_update><source_table>x_535055_safety_issue</source_table><sys_class_name>dl_definition</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-05 13:29:13</sys_created_on><sys_id>77d40223dbef10100a91146139961936</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Inspector lookup</sys_name><sys_package display_value="Safety" source="x_535055_safety">e0f5b417dba310100a911461399619c1</sys_package><sys_policy/><sys_scope display_value="Safety">e0f5b417dba310100a911461399619c1</sys_scope><sys_update_name>dl_definition_77d40223dbef10100a91146139961936</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-05 13:29:13</sys_updated_on></dl_definition></record_update>]]></payload>
+        <payload_hash>-1645895279</payload_hash>
+        <record_name>Inspector lookup</record_name>
+        <reverted_from/>
+        <source>24f5b417dba310100a911461399619c3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-05 13:29:13</sys_created_on>
+        <sys_id>60054223dbef10100a911461399619b0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>174f8f3af3b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-05 13:29:13</sys_updated_on>
+        <type>Data Lookup Definitions</type>
+        <update_guid>a805422385ef10100fa13c7fdc77d4af</update_guid>
+        <update_guid_history>a805422385ef10100fa13c7fdc77d4af:-1645895279</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Inspector lookup">b3a84663dbef10100a9114613996192f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-05 13:45:17</sys_created_on>
+        <sys_db_object display_value="" name="dl_definition">dl_definition</sys_db_object>
+        <sys_id>6027b842dde344ac8a5680351a03c419</sys_id>
+        <sys_metadata>77d40223dbef10100a91146139961936</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Inspector lookup</sys_name>
+        <sys_package display_value="Safety" source="x_535055_safety">e0f5b417dba310100a911461399619c1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Safety">e0f5b417dba310100a911461399619c1</sys_scope>
+        <sys_scope_delete display_value="">6b6a250916444e70adb71e614e4cda40</sys_scope_delete>
+        <sys_update_name>dl_definition_77d40223dbef10100a91146139961936</sys_update_name>
+        <sys_update_version display_value="dl_definition_77d40223dbef10100a91146139961936">60054223dbef10100a911461399619b0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-05 13:45:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

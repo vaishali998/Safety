@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="DELETE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_535055_safety_inspector_lookup_rule</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-05 14:09:29</sys_created_on>
+        <sys_id>d63ece67dbef10100a911461399619f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_535055_safety_inspector_lookup_rule</sys_name>
+        <sys_package display_value="Safety" source="x_535055_safety">e0f5b417dba310100a911461399619c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">e0f5b417dba310100a911461399619c1</sys_scope>
+        <sys_update_name>ua_table_licensing_config_d63ece67dbef10100a911461399619f8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-05 14:09:29</sys_updated_on>
+    </ua_table_licensing_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Safety">e0f5b417dba310100a911461399619c1</application>
+        <file_path/>
+        <instance_id>2524ff52db72d300536ad5b0cf961964</instance_id>
+        <instance_name>dev62215</instance_name>
+        <name>ua_table_licensing_config_d63ece67dbef10100a911461399619f8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config"><ua_table_licensing_config action="INSERT_OR_UPDATE"><is_fulfillment>false</is_fulfillment><license_condition/><license_model>none</license_model><license_roles/><name>x_535055_safety_inspector_lookup_rule</name><op_delete>true</op_delete><op_insert>true</op_insert><op_update>true</op_update><owner_condition/><sys_class_name>ua_table_licensing_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-05 14:09:29</sys_created_on><sys_id>d63ece67dbef10100a911461399619f8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_535055_safety_inspector_lookup_rule</sys_name><sys_package display_value="Safety" source="x_535055_safety">e0f5b417dba310100a911461399619c1</sys_package><sys_policy/><sys_scope display_value="Safety">e0f5b417dba310100a911461399619c1</sys_scope><sys_update_name>ua_table_licensing_config_d63ece67dbef10100a911461399619f8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-05 14:09:29</sys_updated_on></ua_table_licensing_config></record_update>]]></payload>
+        <payload_hash>-98729626</payload_hash>
+        <record_name>x_535055_safety_inspector_lookup_rule</record_name>
+        <reverted_from/>
+        <source>24f5b417dba310100a911461399619c3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-05 14:09:29</sys_created_on>
+        <sys_id>523ece67dbef10100a911461399619fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>174f9188a530000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-05 14:09:29</sys_updated_on>
+        <type>Table Subscription Configuration</type>
+        <update_guid>9a3ece67c4ef101046ae8a5ed311b9f9</update_guid>
+        <update_guid_history>9a3ece67c4ef101046ae8a5ed311b9f9:-98729626</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-05 14:14:47</sys_created_on>
+        <sys_db_object display_value="" name="ua_table_licensing_config">ua_table_licensing_config</sys_db_object>
+        <sys_id>0f32859a5f4346c081773638bb5f5840</sys_id>
+        <sys_metadata>d63ece67dbef10100a911461399619f8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_535055_safety_inspector_lookup_rule</sys_name>
+        <sys_package display_value="Safety" source="x_535055_safety">e0f5b417dba310100a911461399619c1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Safety">e0f5b417dba310100a911461399619c1</sys_scope>
+        <sys_scope_delete display_value="">6b6a250916444e70adb71e614e4cda40</sys_scope_delete>
+        <sys_update_name>ua_table_licensing_config_d63ece67dbef10100a911461399619f8</sys_update_name>
+        <sys_update_version display_value="ua_table_licensing_config_d63ece67dbef10100a911461399619f8">523ece67dbef10100a911461399619fa</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-05 14:14:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Safety app tp record safety issues</description>
+        <device_type>browser</device_type>
+        <hint>Safety app tp record safety issues</hint>
+        <name/>
+        <order/>
+        <roles>user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-04 13:08:07</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>65967457dba310100a911461399619f4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Safety</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Safety" source="x_535055_safety">e0f5b417dba310100a911461399619c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">e0f5b417dba310100a911461399619c1</sys_scope>
+        <sys_update_name>sys_app_application_65967457dba310100a911461399619f4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-04 13:08:07</sys_updated_on>
+        <title>Safety</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

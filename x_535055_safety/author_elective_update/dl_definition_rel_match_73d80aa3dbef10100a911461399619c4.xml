@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="dl_definition_rel_match">
+    <dl_definition_rel_match action="DELETE">
+        <dl_definition display_value="Inspector lookup">fe05caefdbaf10100a911461399619a0</dl_definition>
+        <exact_match>false</exact_match>
+        <matcher_table>x_535055_safety_inspector_lookup_rules</matcher_table>
+        <matcher_table_field>category</matcher_table_field>
+        <source_table>x_535055_safety_issue</source_table>
+        <source_table_field>u_choice_2</source_table_field>
+        <sys_class_name>dl_definition_rel_match</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-05 13:47:21</sys_created_on>
+        <sys_id>73d80aa3dbef10100a911461399619c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_choice_2</sys_name>
+        <sys_package display_value="Safety" source="x_535055_safety">e0f5b417dba310100a911461399619c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">e0f5b417dba310100a911461399619c1</sys_scope>
+        <sys_update_name>dl_definition_rel_match_73d80aa3dbef10100a911461399619c4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-05 13:47:21</sys_updated_on>
+    </dl_definition_rel_match>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Safety">e0f5b417dba310100a911461399619c1</application>
+        <file_path/>
+        <instance_id>2524ff52db72d300536ad5b0cf961964</instance_id>
+        <instance_name>dev62215</instance_name>
+        <name>dl_definition_rel_match_73d80aa3dbef10100a911461399619c4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="dl_definition_rel_match"><dl_definition_rel_match action="INSERT_OR_UPDATE"><dl_definition display_value="Inspector lookup">fe05caefdbaf10100a911461399619a0</dl_definition><exact_match>false</exact_match><matcher_table>x_535055_safety_inspector_lookup_rules</matcher_table><matcher_table_field>category</matcher_table_field><source_table>x_535055_safety_issue</source_table><source_table_field>u_choice_2</source_table_field><sys_class_name>dl_definition_rel_match</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-05 13:47:21</sys_created_on><sys_id>73d80aa3dbef10100a911461399619c4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_choice_2</sys_name><sys_package display_value="Safety" source="x_535055_safety">e0f5b417dba310100a911461399619c1</sys_package><sys_policy/><sys_scope display_value="Safety">e0f5b417dba310100a911461399619c1</sys_scope><sys_update_name>dl_definition_rel_match_73d80aa3dbef10100a911461399619c4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-05 13:47:21</sys_updated_on></dl_definition_rel_match></record_update>]]></payload>
+        <payload_hash>1585596886</payload_hash>
+        <record_name>u_choice_2</record_name>
+        <reverted_from/>
+        <source>24f5b417dba310100a911461399619c3</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-05 13:47:21</sys_created_on>
+        <sys_id>0e290a23dbef10100a911461399619dc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>174f90448d20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-05 13:47:21</sys_updated_on>
+        <type>Matcher Field Definitions</type>
+        <update_guid>46290a23b8ef10107c81a245707060dc</update_guid>
+        <update_guid_history>46290a23b8ef10107c81a245707060dc:1585596886</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="u_choice_2">977dc667dbef10100a9114613996193b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-05 14:06:17</sys_created_on>
+        <sys_db_object display_value="" name="dl_definition_rel_match">dl_definition_rel_match</sys_db_object>
+        <sys_id>26b20d89e96a4fb6899a8377aca13fc4</sys_id>
+        <sys_metadata>73d80aa3dbef10100a911461399619c4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_choice_2</sys_name>
+        <sys_package display_value="Safety" source="x_535055_safety">e0f5b417dba310100a911461399619c1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Safety">e0f5b417dba310100a911461399619c1</sys_scope>
+        <sys_scope_delete display_value="">6b6a250916444e70adb71e614e4cda40</sys_scope_delete>
+        <sys_update_name>dl_definition_rel_match_73d80aa3dbef10100a911461399619c4</sys_update_name>
+        <sys_update_version display_value="dl_definition_rel_match_73d80aa3dbef10100a911461399619c4">0e290a23dbef10100a911461399619dc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-05 14:06:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
